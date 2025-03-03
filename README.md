@@ -7,3 +7,10 @@ Optimized Energy Usage:
 Once we know when the grid will be under high demand, we can make decisions to save energy:
 For example, we can encourage people to use energy at different times, like early in the morning or at night, when the demand is lower.
 We could also raise prices during peak times to make people use less electricity during those periods.
+
+Evaluated the Model:
+We checked how accurate the model was by comparing its predictions with the real energy consumption data. If the model's predictions were close to the actual usage, we can say the model works well.
+Real-World Impact:
+For energy companies: They can use this model to know when the demand will be high and plan accordingly (like storing extra energy or making sure enough energy is available during peak hours).
+
+For consumers: They could save money by using energy during off-peak times (when the energy price is lower), and they might be encouraged to use less energy when it's most needed by the grid.
