@@ -14,3 +14,8 @@ Real-World Impact:
 For energy companies: They can use this model to know when the demand will be high and plan accordingly (like storing extra energy or making sure enough energy is available during peak hours).
 
 For consumers: They could save money by using energy during off-peak times (when the energy price is lower), and they might be encouraged to use less energy when it's most needed by the grid.
+
+The main outcome of this project is that we built a machine learning model that predicts when the demand for electricity will be high.
+This helps optimize energy usage by guiding people to use energy during low-demand times and helping energy companies balance the grid better, reducing waste and saving money.
+In simple terms, we built a tool that helps predict when energy will be used the most, so everyone can use it more wisely!
+
