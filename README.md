@@ -58,3 +58,10 @@ Evaluation Metrics:
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 
+Visualizations
+Plotted Actual vs Predicted energy usage for all models.
+Showed how energy consumption changes over time.
+
+Ethical Considerations
+The dataset used is public and does not contain private information.
+Future real-time projects should ensure user privacy and data security.
