@@ -19,3 +19,42 @@ The main outcome of this project is that we built a machine learning model that 
 This helps optimize energy usage by guiding people to use energy during low-demand times and helping energy companies balance the grid better, reducing waste and saving money.
 In simple terms, we built a tool that helps predict when energy will be used the most, so everyone can use it more wisely!
 
+
+This project uses machine learning to predict energy usage and optimize smart grid performance.
+By forecasting household energy consumption, we aim to:
+
+Reduce energy wastage
+Improve grid efficiency
+Help energy companies manage resources better
+
+Dataset :
+Source: UCI Machine Learning Repository
+Period: December 2006 to November 2010 (47 months)
+Measurements: Household energy consumption recorded every minute
+Features:
+Date, Time
+Global active/reactive power
+Voltage, Current
+Energy usage in Kitchen, Laundry, Water-heater
+
+Note: 1.25% of the data has missing values, which were handled during preprocessing.
+
+Methodology : 
+Data Cleaning:
+Missing values filled with the median.
+Combined 'Date' and 'Time' into a 'Datetime' column.
+Feature Engineering:
+Created lag features (previous values) to capture time-based patterns.
+Scaled the data where necessary.
+
+Model Training:
+Trained and compared multiple machine learning models:
+Linear Regression
+Random Forest
+Artificial Neural Network (ANN)
+Gradient Boosting
+
+Evaluation Metrics:
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+
