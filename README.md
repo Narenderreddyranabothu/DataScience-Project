@@ -65,3 +65,14 @@ Showed how energy consumption changes over time.
 Ethical Considerations
 The dataset used is public and does not contain private information.
 Future real-time projects should ensure user privacy and data security.
+
+Key Observations
+Ensemble methods (like Random Forest and Gradient Boosting) perform better for this type of time-series energy data.
+Deep learning (ANN) also gives very competitive results, even with minimal tuning.
+Linear Regression, while simple, still performed reasonably well.
+
+Conclusion
+Machine learning models can accurately predict energy usage in smart grids.
+Gradient Boosting and ANN models are recommended for further deployment.
+Adding external factors (like weather, holidays) could improve future model accuracy.
+
